@@ -1,0 +1,11 @@
+﻿onset	duration	trial_type	value	sample
+0.0	0.0001	New Segment/	2	0
+57.1018	0.0001	New Segment/LostSamples: 3	4	571018
+70.7075	0.0001	New Segment/LostSamples: 2	3	707075
+267.8	0.0001	Comment/ro post	1	2678000
+293.38	0.0001	Comment/ro post	1	2933800
+567.1	0.0001	Comment/ro post	1	5671000
+569.2	0.0001	Comment/ro post	1	5692000
+570.8	0.0001	Comment/ro post	1	5708000
+602.88	0.0001	Comment/ro post	1	6028800
+703.7837	0.0001	New Segment/LostSamples: 2	3	7037837
