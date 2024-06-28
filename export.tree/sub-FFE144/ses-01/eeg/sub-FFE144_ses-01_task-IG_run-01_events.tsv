@@ -1,0 +1,10 @@
+﻿onset	duration	trial_type	value	sample
+0.0	0.0001	New Segment/	2	0
+402.72	0.0001	Comment/motion	1	4027200
+568.1	0.0001	Comment/motion	1	5681000
+632.74	0.0001	Comment/motion	1	6327400
+694.58	0.0001	Comment/motion	1	6945800
+720.94	0.0001	Comment/motion	1	7209400
+787.2396	0.0001	New Segment/LostSamples: 2	3	7872396
+816.14	0.0001	Comment/motion	1	8161400
+870.44	0.0001	Comment/motion	1	8704400
